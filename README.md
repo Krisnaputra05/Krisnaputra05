@@ -12,16 +12,13 @@ I am **Krisna Pradnya**, a dedicated **Software Developer** with a strong passio
 
 ![https://www.instagram.com/krisna_pradnya22](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Krisnaputra05](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-##### My Repo Stats
+##### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krisnaputra05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Krisnaputra05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnaputra05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Krisna's GitHub stats](./stats.svg)
-
-![](https://github-readme-stats.vercel.app/api?username=Krisnaputra05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_TOKEN)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krisnaputra05&theme=tokyonight&hide_border=true&token=YOUR_TOKEN)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnaputra05&theme=tokyonight&hide_border=true&layout=compact&token=YOUR_TOKEN)
 
 ##### Contribution
-
 ![](https://github-contributor-stats.vercel.app/api?username=Krisnaputra05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
