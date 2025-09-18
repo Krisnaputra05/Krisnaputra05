@@ -32,10 +32,18 @@ I am **Krisna Pradnya**, a dedicated **Software Developer** with a strong passio
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=wh" />
 
-### Social
+##### Social
 
 ![https://www.instagram.com/krisna_pradnya22](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Krisnaputra05](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### Contribution
+##### My Repo Stats
 
-![Krisna GitHub stats](https://github-readme-stats.vercel.app/api?username=Krisnaputra05)
+![](https://github-readme-stats.vercel.app/api?username=Krisnaputra05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_TOKEN)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krisnaputra05&theme=tokyonight&hide_border=true&token=YOUR_TOKEN)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnaputra05&theme=tokyonight&hide_border=true&layout=compact&token=YOUR_TOKEN)
+
+##### Contribution
+
+![](https://github-contributor-stats.vercel.app/api?username=Krisnaputra05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
