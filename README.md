@@ -38,6 +38,8 @@ I am **Krisna Pradnya**, a dedicated **Software Developer** with a strong passio
 
 ##### My Repo Stats
 
+![Krisna's GitHub stats](./stats.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=Krisnaputra05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_TOKEN)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Krisnaputra05&theme=tokyonight&hide_border=true&token=YOUR_TOKEN)
